@@ -1,0 +1,8 @@
+llvm-rc: Error parsing file: Invalid token found at position 9152
+hbmk2: Processando op‡äes do ambiente: -comp=clang
+Harbour 3.2.1dev (r2607071005)
+Copyright (c) 1999-2025, https://harbour.github.io/
+clang: error: no such file or directory: 'C:/hmg.3.6/SAMPLES/Basics/CONSOLE/_temp.o'
+hbmk2[hello]: Erro: Executando linkeditor. 1
+clang.exe C:/Users/Itamar/AppData/Local/Temp/hbmk_bnxp6l.dir/hello.o C:/Users/Itamar/AppData/Local/Temp/hbmk_bnxp6l.dir/hbmk_zzenbb.o C:/hmg.3.6/SAMPLES/Basics/CONSOLE/_temp.o    -pthread  -static-libgcc  -static-libstdc++  -static -lpthread -mwindows -l"hmg-64" -l"crypt-64" -l"edit-64" -l"editex-64" -l"graph-64" -l"ini-64" -l"report-64" -l"hfcl-64" -l"hb_webview-64" -lmsvfw32 -lvfw32 -l"hbvpdf-64" -lhbct -lhbwin -lhbmzip -lminizip -lhbmemio -lhbmisc -lhbtip -lsqlite3 -lhbsqlit3 -lsddodbc -lrddsql -lhbodbc -lodbc32 -lhbhpdf -lhbnetio -lxhb -lpng -llibhpdf -lhbzebra -lhbextern -lhbdebug -lhbvmmt -lhbrtl -lhblang -lhbcpage -lgtcgi -lgtpca -lgtstd -lgtwin -lgtwvt -lgtgui -lhbrdd -lhbuddall -lhbusrrdd -lrddntx -lrddcdx -lrddnsx -lrddfpt -lhbrdd -lhbhsx -lhbsix -lhbrtl -lhbvmmt -lhbmacro -lhbcplr -lhbpp -lhbcommon -lhbmainwin -lwinmm -lkernel32 -luser32 -lgdi32 -ladvapi32 -lws2_32 -liphlpapi -lwinspool -lcomctl32 -lcomdlg32 -lshell32 -luuid -lole32 -loleaut32 -lmpr -lmapi32 -limm32 -lmsimg32 -lwininet -lhbpcre -lhbzlib   -ohello.exe  -Lc:/hb32/lib/win/clang -L"C:/hmg.3.6/lib-64"
+

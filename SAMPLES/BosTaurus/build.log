@@ -1,0 +1,5 @@
+hbmk2: Processando op‡äes do ambiente: -comp=clang
+Harbour 3.2.1dev (r2607071005)
+Copyright (c) 1999-2025, https://harbour.github.io/
+clang: warning: argument unused during compilation: '-static-libstdc++' [-Wunused-command-line-argument]
+

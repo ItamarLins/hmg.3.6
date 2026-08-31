@@ -1,0 +1,5 @@
+libpaths=../../lib-64
+#libs=hmg-64
+hpdf.hbc
+hbct.hbc
+hbmzip.hbc

@@ -1,0 +1,13 @@
+-hblib
+
+-o../../lib-64/ini-64
+
+-Iinclude
+-I..\..\include
+
+-D__HBIDE__
+
+-w2 -es2
+
+h_ini.prg
+c_ini.c

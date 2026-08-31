@@ -1,0 +1,13 @@
+-hblib
+
+-o../../lib-64/graph-64
+
+-Iinclude
+-I..\..\include
+
+-D__HBIDE__
+
+-w2 -es2
+
+h_graph.prg
+c_graph.c
